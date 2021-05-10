@@ -1,4 +1,4 @@
-A collaborative list of AITU student's open-source projects. To add your own project below, just [edit](https://github.com/onl1ner/open-aitu/edit/main/README.md) this file and submit a pull request! Please follow the [contribution guidelines](https://github.com/onl1ner/open-aitu/blob/main/CONTRIBUTING.md) before submitting your PR.
+A collaborative list of AITU student's projects. To add your own project below, just [edit](https://github.com/onl1ner/open-aitu/edit/main/README.md) this file and submit a pull request! Please follow the [contribution guidelines](https://github.com/onl1ner/open-aitu/blob/main/CONTRIBUTING.md) before submitting your PR.
 
 ## Navigation
 

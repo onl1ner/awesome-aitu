@@ -23,4 +23,7 @@ A collaborative list of AITU student's projects. To add your own project below, 
 
 
 ## Telecommunication Systems
-- [Alibek Mombekov/SpeechRecognition](https://github.com/olimeme/speechrecognition) – speech recognition system written on python.
+
+*List of projects of students that are studying telecommunication systems* 
+
+- [Alibek Mombekov/SpeechRecognition](https://github.com/olimeme/speechrecognition) – speech recognition system written on Python.

@@ -16,11 +16,12 @@ A collaborative list of AITU student's projects. To add your own project below, 
 
 *List of projects of students that are studying software engineering* 
 
+- [Tamerlan Satualdypov/AITU Events](https://apps.apple.com/app/aitu-events/id1534429903) – iOS application to track events that are taking place in AITU .
 - [Tamerlan Satualdypov/BarcodeScanner](https://github.com/onl1ner/BarcodeScanner) – simple & easy iOS application that helps you to scan both EAN8 and EAN13 barcodes.
 - [Tamerlan Satualdypov/CovidKazakhstan](https://github.com/onl1ner/CovidKazakhstan) – iOS application to track number of coronavirus COVID-19 cases in Kazakhstan.
 - [Tamerlan Satualdypov/Hands](https://github.com/onl1ner/Hands) – memory game with hand gesture recognition that will keep you brain in a good shape!
 - [Tamerlan Satualdypov/STTextView](https://github.com/onl1ner/STTextView) - a light-weight Swift library that adds a placeholder to the UITextView.
-
+- [Tamerlan Satualdypov/Weather](https://github.com/onl1ner/Weather) – simple weather application written in pure Java using JavaFX framework.
 
 ## Telecommunication Systems
 

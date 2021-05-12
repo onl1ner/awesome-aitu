@@ -20,3 +20,10 @@ A collaborative list of AITU student's projects. To add your own project below, 
 - [Tamerlan Satualdypov/CovidKazakhstan](https://github.com/onl1ner/CovidKazakhstan) – iOS application to track number of coronavirus COVID-19 cases in Kazakhstan.
 - [Tamerlan Satualdypov/Hands](https://github.com/onl1ner/Hands) – memory game with hand gesture recognition that will keep you brain in a good shape!
 - [Tamerlan Satualdypov/STTextView](https://github.com/onl1ner/STTextView) - a light-weight Swift library that adds a placeholder to the UITextView.
+
+
+## Telecommunication Systems
+
+*List of projects of students that are studying telecommunication systems* 
+
+- [Alibek Mombekov/SpeechRecognition](https://github.com/olimeme/speechrecognition) – speech recognition system written on Python.

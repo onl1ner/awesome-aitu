@@ -23,6 +23,14 @@ A collaborative list of AITU student's projects. To add your own project below, 
 - [Tamerlan Satualdypov/STTextView](https://github.com/onl1ner/STTextView) - a light-weight Swift library that adds a placeholder to the UITextView.
 - [Tamerlan Satualdypov/Weather](https://github.com/onl1ner/Weather) – simple weather application written in pure Java using JavaFX framework.
 
+
+## Cyber Security
+
+*List of projects of students that are studying telecommunication systems* 
+- [Nurov Arnur/NurCrypt](https://github.com/LordBarov/NurCrypt_JAVA) – Password Manager with RSA encryption.
+
+
+
 ## Telecommunication Systems
 
 *List of projects of students that are studying telecommunication systems* 

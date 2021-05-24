@@ -28,3 +28,5 @@ A collaborative list of AITU student's projects. To add your own project below, 
 *List of projects of students that are studying telecommunication systems* 
 
 - [Alibek Mombekov/SpeechRecognition](https://github.com/olimeme/speechrecognition) – speech recognition system written on Python.
+## Cybersecurity
+- [Nurov Arnur/NurCrypt](https://github.com/LordBarov/NurCrypt_JAVA) – Application that saves your passwords and uses RSA encryption.

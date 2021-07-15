@@ -16,6 +16,7 @@ A collaborative list of AITU student's projects. To add your own project below, 
 
 *List of projects of students that are studying software engineering* 
 
+- [Arystan_Kalmakhanov/Infinity](https://blog.bc-pf.org/infinity/) – an article about mathematical concept that describes this concept using simple terms .
 - [Tamerlan Satualdypov/AITU Events](https://apps.apple.com/app/aitu-events/id1534429903) – iOS application to track events that are taking place in AITU .
 - [Tamerlan Satualdypov/BarcodeScanner](https://github.com/onl1ner/BarcodeScanner) – simple & easy iOS application that helps you to scan both EAN8 and EAN13 barcodes.
 - [Tamerlan Satualdypov/CovidKazakhstan](https://github.com/onl1ner/CovidKazakhstan) – iOS application to track number of coronavirus COVID-19 cases in Kazakhstan.

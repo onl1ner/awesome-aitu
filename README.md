@@ -23,7 +23,7 @@ A collaborative list of AITU student's projects. To add your own project below, 
 - [Tamerlan Satualdypov/Hands](https://github.com/onl1ner/Hands) – memory game with hand gesture recognition that will keep you brain in a good shape!
 - [Tamerlan Satualdypov/STTextView](https://github.com/onl1ner/STTextView) - a light-weight Swift library that adds a placeholder to the UITextView.
 - [Tamerlan Satualdypov/Weather](https://github.com/onl1ner/Weather) – simple weather application written in pure Java using JavaFX framework.
-- [Zhomartkhan Talgatuly](https://github.com/khanZhomart/iot-security-catalog-bot) – a telegram bot which gives advice and recommendations about smart home technology's security.
+- [Zhomartkhan Talgatuly/iot-security-catalog-bot](https://github.com/khanZhomart/iot-security-catalog-bot) – a telegram bot which gives advice and recommendations about smart home technology's security.
 
 ## Telecommunication Systems
 

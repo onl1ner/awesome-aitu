@@ -16,6 +16,7 @@ A collaborative list of AITU student's projects. To add your own project below, 
 
 *List of projects of students that are studying software engineering* 
 
+- [Zhomartkhan Talgatuly](https://github.com/khanZhomart/iot-security-catalog-bot) – a telegram bot which gives advice and recommendations about smart home technology's security.
 - [Arystan Kalmakhanov/Infinity](https://blog.bc-pf.org/infinity/) – an article about mathematical concept that describes this concept using simple terms .
 - [Tamerlan Satualdypov/AITU Events](https://apps.apple.com/app/aitu-events/id1534429903) – iOS application to track events that are taking place in AITU .
 - [Tamerlan Satualdypov/BarcodeScanner](https://github.com/onl1ner/BarcodeScanner) – simple & easy iOS application that helps you to scan both EAN8 and EAN13 barcodes.

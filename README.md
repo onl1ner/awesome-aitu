@@ -21,6 +21,7 @@ A collaborative list of AITU student's projects. To add your own project below, 
 - [Tamerlan Satualdypov/BarcodeScanner](https://github.com/onl1ner/BarcodeScanner) – simple & easy iOS application that helps you to scan both EAN8 and EAN13 barcodes.
 - [Tamerlan Satualdypov/CovidKazakhstan](https://github.com/onl1ner/CovidKazakhstan) – iOS application to track number of coronavirus COVID-19 cases in Kazakhstan.
 - [Tamerlan Satualdypov/Hands](https://github.com/onl1ner/Hands) – memory game with hand gesture recognition that will keep you brain in a good shape!
+- [Tamerlan Satualdypov/STDiscreteSlider](https://github.com/onl1ner/STDiscreteSlider) – slider which allows user to choose value only from predefined set of data.
 - [Tamerlan Satualdypov/STTextView](https://github.com/onl1ner/STTextView) - a light-weight Swift library that adds a placeholder to the UITextView.
 - [Tamerlan Satualdypov/Weather](https://github.com/onl1ner/Weather) – simple weather application written in pure Java using JavaFX framework.
 - [Zhomartkhan Talgatuly/iot-security-catalog-bot](https://github.com/khanZhomart/iot-security-catalog-bot) – a telegram bot which gives advice and recommendations about smart home technology's security.

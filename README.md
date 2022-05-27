@@ -1,4 +1,4 @@
-A collaborative list of AITU student's projects. To add your own project below, just [edit](https://github.com/onl1ner/open-aitu/edit/main/README.md) this file and submit a pull request! Please follow the [contribution guidelines](https://github.com/onl1ner/open-aitu/blob/main/CONTRIBUTING.md) before submitting your PR.
+A collaborative list of AITU student's projects. To add your own project below, just [edit](https://github.com/onl1ner/awesome-aitu/edit/main/README.md) this file and submit a pull request! Please follow the [contribution guidelines](https://github.com/onl1ner/awesome-aitu/blob/main/CONTRIBUTING.md) before submitting your PR.
 
 ## Navigation
 
@@ -17,13 +17,10 @@ A collaborative list of AITU student's projects. To add your own project below, 
 *List of projects of students that are studying software engineering* 
 
 - [Arystan Kalmakhanov/Infinity](https://blog.bc-pf.org/infinity/) – an article about mathematical concept that describes this concept using simple terms .
-- [Tamerlan Satualdypov/AITU Events](https://apps.apple.com/app/aitu-events/id1534429903) – iOS application to track events that are taking place in AITU .
+- [Tamerlan Satualdypov/AITU Events](https://apps.apple.com/app/aitu-events/id1534429903) – iOS application to track events that are taking place in AITU.
 - [Tamerlan Satualdypov/BarcodeScanner](https://github.com/onl1ner/BarcodeScanner) – simple & easy iOS application that helps you to scan both EAN8 and EAN13 barcodes.
-- [Tamerlan Satualdypov/CovidKazakhstan](https://github.com/onl1ner/CovidKazakhstan) – iOS application to track number of coronavirus COVID-19 cases in Kazakhstan.
 - [Tamerlan Satualdypov/Hands](https://github.com/onl1ner/Hands) – memory game with hand gesture recognition that will keep you brain in a good shape!
-- [Tamerlan Satualdypov/ios-mvp-template](https://github.com/onl1ner/ios-mvp-template) – a flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
-- [Tamerlan Satualdypov/STDiscreteSlider](https://github.com/onl1ner/STDiscreteSlider) – slider which allows user to choose value only from predefined set of data.
-- [Tamerlan Satualdypov/STTextView](https://github.com/onl1ner/STTextView) - a light-weight Swift library that adds a placeholder to the UITextView.
+- [Tamerlan Satualdypov/Morse](https://github.com/onl1ner/Morse) – English to Morse Сode translator written in SwiftUI.
 - [Tamerlan Satualdypov/Weather](https://github.com/onl1ner/Weather) – simple weather application written in pure Java using JavaFX framework.
 - [Zhomartkhan Talgatuly/iot-security-catalog-bot](https://github.com/khanZhomart/iot-security-catalog-bot) – a telegram bot which gives advice and recommendations about smart home technology's security.
 

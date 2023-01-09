@@ -24,7 +24,6 @@ A collaborative list of AITU student's projects. To add your own project below, 
 - [Tamerlan Satualdypov/Weather](https://github.com/onl1ner/Weather) – simple weather application written in pure Java using JavaFX framework.
 - [Zhomartkhan Talgatuly/iot-security-catalog-bot](https://github.com/khanZhomart/iot-security-catalog-bot) – a telegram bot which gives advice and recommendations about smart home technology's security.
 
-## Telecommunication Systems
 
 *List of projects of students that are studying telecommunication systems* 
 
